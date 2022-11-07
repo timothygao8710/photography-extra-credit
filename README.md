@@ -1,4 +1,4 @@
-
+![Aldous Huxley](https://github.com/timothygao8710/photography-extra-credit/blob/main/res_images/Aldous-Huxley.jpeg) ![Aldous Huxley](https://github.com/timothygao8710/photography-extra-credit/blob/main/res_images/Aldous-Huxley.jpeg)
 
 
 # AI Colorization
