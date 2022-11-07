@@ -14,7 +14,7 @@
 
 ## Photography Extra Credit: AI Colorization
 
-Computer vision project utilizing a pre-trained convolutional neural network to predict and generate colorized pixels. Implementation utilizes Python's (open cv)[https://opencv.org/] library.
+Computer vision project utilizing a pre-trained convolutional neural network to predict and generate colorized pixels. Implementation utilizes Python's [open cv](https://opencv.org/) library.
 
 Based on Rich Zhang's [work](https://richzhang.github.io/colorization/). His recent paper [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://arxiv.org/abs/1705.02999) is an extension to this work.
 
