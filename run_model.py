@@ -58,4 +58,5 @@ def run(image_name, to_display = False):
         cv2.waitKey(0)
     return res
 
+# change name to any image
 # run(image_name = 'Aldous-Huxley-246x300.jpeg', to_display = True)
